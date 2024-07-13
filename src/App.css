@@ -1,0 +1,30 @@
+.converter{
+  text-align: start;
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white; 
+  margin-left: 36%;
+  width: 322px;
+  height: auto;
+  margin-top: 10%;
+  padding-left: 77px;
+  border-radius: 10px;
+  gap: 8px;
+  padding-bottom: 15px;
+}
+.inputs{
+  display: flex;
+  flex-direction: column;
+}
+.button{
+  margin-top: 10px;
+    width: 100px;
+    height: 29px;
+}
+.dropdown{
+  width: 171px;
+}
